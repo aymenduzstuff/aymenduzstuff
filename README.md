@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @aymenduzstuff
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning maybe java
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me don't
+new on here , i'm using java and python for most of my projects 
+interests include data science and machine learning , and also backend developement 
 
 <!---
 aymenduzstuff/aymenduzstuff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
