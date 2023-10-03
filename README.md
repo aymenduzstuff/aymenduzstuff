@@ -1,5 +1,4 @@
-new on here , i'm using java and python for most of my projects 
-interests include data science and machine learning , and also backend developement 
+exploring new stuff , main focus here is django backend developpement , webscraping , machine learning 
 
 <!---
 aymenduzstuff/aymenduzstuff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
