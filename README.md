@@ -1,4 +1,4 @@
-exploring new stuff , main focus here is django backend developpement maybe some front-end vue js, webscraping , machine learning 
+main interests are python backend developement , web scraping , recommendation systems and data analysis
 
 <!---
 aymenduzstuff/aymenduzstuff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
